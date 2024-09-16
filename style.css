@@ -578,6 +578,7 @@ nav {
       flex-direction: column;
       grid-template-columns: repeat(1, 1fr); /* 3 equal columns */
       grid-template-rows: repeat(6, auto);  /* 2 rows of 200px height */
+      width: auto;
       gap: 20px;
     }
     .subscription {
